@@ -1,0 +1,20 @@
+{
+    "name": "angularjs-test",
+	"description": "angularjs-test AngularJS application",
+    "version": "1.0.0",
+	"license": "MIT",
+    "keywords": ["util", "functional", "server", "client", "browser"],
+    "author": "d.makan",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/dmakan/angularjs-test.git"
+	},
+    "contributors": [],
+    "dependencies": {},
+	"devDependencies": {
+		"grunt": "~0.4.5",
+		"grunt-contrib-jshint": "~0.10.0",
+		"grunt-contrib-nodeunit": "~0.4.1",
+		"grunt-contrib-uglify": "~0.5.0"
+	  }
+}
